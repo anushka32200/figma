@@ -6,7 +6,7 @@ A modern, fully responsive website for an Interior Design showcasing services, p
 
 This project is a front-end website built with HTML, CSS, and JavaScript. It features a clean, aesthetic design layout perfect for interior design businesses, freelancers, or agencies. The layout adapts beautifully across desktops, tablets, and mobile devices.
 
-## ✨ Features
+## ✨ Features.
 
 - 🔹 Responsive Navigation Bar
 - 🔹 Hero section with headline & description
