@@ -31,3 +31,5 @@ This project is a front-end website built with HTML, CSS, and JavaScript. It fea
 ## 📂 Project Structure
 # figma
 Name:_Anushka sharma
+
+ LINK :--https://luxury-swan-9f078a.netlify.app/
