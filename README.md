@@ -1,6 +1,6 @@
-# 🛋 Interior Design Studio Website
+# 🛋 Interior Design  Website
 
-A modern, fully responsive website for an Interior Design Studio showcasing services, projects, testimonials, and client engagement features.
+A modern, fully responsive website for an Interior Design showcasing services, projects, testimonials, and client engagement features.
 
 ## 🚀 Project Overview
 
