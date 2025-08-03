@@ -11,7 +11,7 @@ This project is a front-end website built with HTML, CSS, and JavaScript. It fea
 - 🔹 Responsive Navigation Bar
 - 🔹 Hero section with headline & description
 - 🔹 Service showcase grid
-- 🔹 About section with image gallery
+- 🔹 About section with image gallery.
 - 🔹 Statistics section (Projects, Clients, Styles)
 - 🔹 Step-by-step process section
 - 🔹 Testimonials from happy clients
